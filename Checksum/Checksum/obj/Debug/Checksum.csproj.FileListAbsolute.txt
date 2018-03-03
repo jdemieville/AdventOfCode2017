@@ -1,0 +1,16 @@
+C:\Users\bianc\Desktop\Advent of Code\Captcha\Checksum\Checksum\Checksum\bin\Debug\Checksum.exe.config
+C:\Users\bianc\Desktop\Advent of Code\Captcha\Checksum\Checksum\Checksum\bin\Debug\Checksum.exe
+C:\Users\bianc\Desktop\Advent of Code\Captcha\Checksum\Checksum\Checksum\bin\Debug\Checksum.pdb
+C:\Users\bianc\Desktop\Advent of Code\Captcha\Checksum\Checksum\Checksum\obj\Debug\Checksum.csprojResolveAssemblyReference.cache
+C:\Users\bianc\Desktop\Advent of Code\Captcha\Checksum\Checksum\Checksum\obj\Debug\Checksum.csproj.ResolveComReference.cache
+C:\Users\bianc\Desktop\Advent of Code\Captcha\Checksum\Checksum\Checksum\obj\Debug\Checksum.csproj.CoreCompileInputs.cache
+C:\Users\bianc\Desktop\Advent of Code\Captcha\Checksum\Checksum\Checksum\obj\Debug\Checksum.exe
+C:\Users\bianc\Desktop\Advent of Code\Captcha\Checksum\Checksum\Checksum\obj\Debug\Checksum.pdb
+C:\Users\bianc\Desktop\AdventofCode\Checksum\Checksum\bin\Debug\Checksum.exe.config
+C:\Users\bianc\Desktop\AdventofCode\Checksum\Checksum\bin\Debug\Checksum.exe
+C:\Users\bianc\Desktop\AdventofCode\Checksum\Checksum\bin\Debug\Checksum.pdb
+C:\Users\bianc\Desktop\AdventofCode\Checksum\Checksum\obj\Debug\Checksum.csprojResolveAssemblyReference.cache
+C:\Users\bianc\Desktop\AdventofCode\Checksum\Checksum\obj\Debug\Checksum.csproj.ResolveComReference.cache
+C:\Users\bianc\Desktop\AdventofCode\Checksum\Checksum\obj\Debug\Checksum.csproj.CoreCompileInputs.cache
+C:\Users\bianc\Desktop\AdventofCode\Checksum\Checksum\obj\Debug\Checksum.exe
+C:\Users\bianc\Desktop\AdventofCode\Checksum\Checksum\obj\Debug\Checksum.pdb

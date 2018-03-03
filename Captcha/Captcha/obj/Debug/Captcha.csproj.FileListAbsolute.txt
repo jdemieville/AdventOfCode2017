@@ -1,0 +1,14 @@
+C:\Users\bianc\Desktop\Advent of Code\Captcha\Captcha\bin\Debug\Captcha.exe.config
+C:\Users\bianc\Desktop\Advent of Code\Captcha\Captcha\bin\Debug\Captcha.exe
+C:\Users\bianc\Desktop\Advent of Code\Captcha\Captcha\bin\Debug\Captcha.pdb
+C:\Users\bianc\Desktop\Advent of Code\Captcha\Captcha\obj\Debug\Captcha.csprojResolveAssemblyReference.cache
+C:\Users\bianc\Desktop\Advent of Code\Captcha\Captcha\obj\Debug\Captcha.csproj.CoreCompileInputs.cache
+C:\Users\bianc\Desktop\Advent of Code\Captcha\Captcha\obj\Debug\Captcha.exe
+C:\Users\bianc\Desktop\Advent of Code\Captcha\Captcha\obj\Debug\Captcha.pdb
+C:\Users\bianc\Desktop\AdventofCode\Captcha\Captcha\bin\Debug\Captcha.exe.config
+C:\Users\bianc\Desktop\AdventofCode\Captcha\Captcha\bin\Debug\Captcha.exe
+C:\Users\bianc\Desktop\AdventofCode\Captcha\Captcha\bin\Debug\Captcha.pdb
+C:\Users\bianc\Desktop\AdventofCode\Captcha\Captcha\obj\Debug\Captcha.csprojResolveAssemblyReference.cache
+C:\Users\bianc\Desktop\AdventofCode\Captcha\Captcha\obj\Debug\Captcha.csproj.CoreCompileInputs.cache
+C:\Users\bianc\Desktop\AdventofCode\Captcha\Captcha\obj\Debug\Captcha.exe
+C:\Users\bianc\Desktop\AdventofCode\Captcha\Captcha\obj\Debug\Captcha.pdb

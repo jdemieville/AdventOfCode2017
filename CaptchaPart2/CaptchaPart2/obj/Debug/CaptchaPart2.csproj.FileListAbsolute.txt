@@ -1,0 +1,14 @@
+C:\Users\bianc\Desktop\Advent of Code\Captcha\CaptchaPart2\CaptchaPart2\bin\Debug\CaptchaPart2.exe.config
+C:\Users\bianc\Desktop\Advent of Code\Captcha\CaptchaPart2\CaptchaPart2\bin\Debug\CaptchaPart2.exe
+C:\Users\bianc\Desktop\Advent of Code\Captcha\CaptchaPart2\CaptchaPart2\bin\Debug\CaptchaPart2.pdb
+C:\Users\bianc\Desktop\Advent of Code\Captcha\CaptchaPart2\CaptchaPart2\obj\Debug\CaptchaPart2.csprojResolveAssemblyReference.cache
+C:\Users\bianc\Desktop\Advent of Code\Captcha\CaptchaPart2\CaptchaPart2\obj\Debug\CaptchaPart2.csproj.CoreCompileInputs.cache
+C:\Users\bianc\Desktop\Advent of Code\Captcha\CaptchaPart2\CaptchaPart2\obj\Debug\CaptchaPart2.exe
+C:\Users\bianc\Desktop\Advent of Code\Captcha\CaptchaPart2\CaptchaPart2\obj\Debug\CaptchaPart2.pdb
+C:\Users\bianc\Desktop\AdventofCode\CaptchaPart2\CaptchaPart2\bin\Debug\CaptchaPart2.exe.config
+C:\Users\bianc\Desktop\AdventofCode\CaptchaPart2\CaptchaPart2\bin\Debug\CaptchaPart2.exe
+C:\Users\bianc\Desktop\AdventofCode\CaptchaPart2\CaptchaPart2\bin\Debug\CaptchaPart2.pdb
+C:\Users\bianc\Desktop\AdventofCode\CaptchaPart2\CaptchaPart2\obj\Debug\CaptchaPart2.csprojResolveAssemblyReference.cache
+C:\Users\bianc\Desktop\AdventofCode\CaptchaPart2\CaptchaPart2\obj\Debug\CaptchaPart2.csproj.CoreCompileInputs.cache
+C:\Users\bianc\Desktop\AdventofCode\CaptchaPart2\CaptchaPart2\obj\Debug\CaptchaPart2.exe
+C:\Users\bianc\Desktop\AdventofCode\CaptchaPart2\CaptchaPart2\obj\Debug\CaptchaPart2.pdb

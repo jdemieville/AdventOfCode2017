@@ -1,0 +1,7 @@
+C:\Users\bianc\Desktop\Advent of Code\Captcha\Spiral\SpiralMemory\SpiralMemory\bin\Debug\SpiralMemory.exe.config
+C:\Users\bianc\Desktop\Advent of Code\Captcha\Spiral\SpiralMemory\SpiralMemory\bin\Debug\SpiralMemory.exe
+C:\Users\bianc\Desktop\Advent of Code\Captcha\Spiral\SpiralMemory\SpiralMemory\bin\Debug\SpiralMemory.pdb
+C:\Users\bianc\Desktop\Advent of Code\Captcha\Spiral\SpiralMemory\SpiralMemory\obj\Debug\SpiralMemory.csproj.CoreCompileInputs.cache
+C:\Users\bianc\Desktop\Advent of Code\Captcha\Spiral\SpiralMemory\SpiralMemory\obj\Debug\SpiralMemory.exe
+C:\Users\bianc\Desktop\Advent of Code\Captcha\Spiral\SpiralMemory\SpiralMemory\obj\Debug\SpiralMemory.pdb
+C:\Users\bianc\Desktop\Advent of Code\Captcha\Spiral\SpiralMemory\SpiralMemory\obj\Debug\SpiralMemory.csprojResolveAssemblyReference.cache

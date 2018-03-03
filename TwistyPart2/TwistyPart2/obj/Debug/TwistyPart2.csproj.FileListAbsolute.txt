@@ -1,0 +1,6 @@
+C:\Users\bianc\Desktop\AdventofCode\TwistyPart2\TwistyPart2\bin\Debug\TwistyPart2.exe.config
+C:\Users\bianc\Desktop\AdventofCode\TwistyPart2\TwistyPart2\bin\Debug\TwistyPart2.exe
+C:\Users\bianc\Desktop\AdventofCode\TwistyPart2\TwistyPart2\bin\Debug\TwistyPart2.pdb
+C:\Users\bianc\Desktop\AdventofCode\TwistyPart2\TwistyPart2\obj\Debug\TwistyPart2.csproj.CoreCompileInputs.cache
+C:\Users\bianc\Desktop\AdventofCode\TwistyPart2\TwistyPart2\obj\Debug\TwistyPart2.exe
+C:\Users\bianc\Desktop\AdventofCode\TwistyPart2\TwistyPart2\obj\Debug\TwistyPart2.pdb

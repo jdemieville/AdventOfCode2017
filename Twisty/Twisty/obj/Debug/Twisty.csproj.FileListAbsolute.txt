@@ -1,0 +1,7 @@
+C:\Users\bianc\Desktop\AdventofCode\Twisty\Twisty\bin\Debug\Twisty.exe.config
+C:\Users\bianc\Desktop\AdventofCode\Twisty\Twisty\bin\Debug\Twisty.exe
+C:\Users\bianc\Desktop\AdventofCode\Twisty\Twisty\bin\Debug\Twisty.pdb
+C:\Users\bianc\Desktop\AdventofCode\Twisty\Twisty\obj\Debug\Twisty.csprojResolveAssemblyReference.cache
+C:\Users\bianc\Desktop\AdventofCode\Twisty\Twisty\obj\Debug\Twisty.csproj.CoreCompileInputs.cache
+C:\Users\bianc\Desktop\AdventofCode\Twisty\Twisty\obj\Debug\Twisty.exe
+C:\Users\bianc\Desktop\AdventofCode\Twisty\Twisty\obj\Debug\Twisty.pdb

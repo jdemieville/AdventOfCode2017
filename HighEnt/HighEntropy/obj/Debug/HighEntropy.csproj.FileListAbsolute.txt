@@ -1,0 +1,7 @@
+C:\Users\bianc\Desktop\AdventofCode\HighEnt\HighEntropy\bin\Debug\HighEntropy.exe.config
+C:\Users\bianc\Desktop\AdventofCode\HighEnt\HighEntropy\bin\Debug\HighEntropy.exe
+C:\Users\bianc\Desktop\AdventofCode\HighEnt\HighEntropy\bin\Debug\HighEntropy.pdb
+C:\Users\bianc\Desktop\AdventofCode\HighEnt\HighEntropy\obj\Debug\HighEntropy.csprojResolveAssemblyReference.cache
+C:\Users\bianc\Desktop\AdventofCode\HighEnt\HighEntropy\obj\Debug\HighEntropy.csproj.CoreCompileInputs.cache
+C:\Users\bianc\Desktop\AdventofCode\HighEnt\HighEntropy\obj\Debug\HighEntropy.exe
+C:\Users\bianc\Desktop\AdventofCode\HighEnt\HighEntropy\obj\Debug\HighEntropy.pdb

@@ -1,0 +1,14 @@
+C:\Users\bianc\Desktop\Advent of Code\MemRealloc\MemReallocHash\MemReallocHash\bin\Debug\MemReallocHash.exe.config
+C:\Users\bianc\Desktop\Advent of Code\MemRealloc\MemReallocHash\MemReallocHash\bin\Debug\MemReallocHash.exe
+C:\Users\bianc\Desktop\Advent of Code\MemRealloc\MemReallocHash\MemReallocHash\bin\Debug\MemReallocHash.pdb
+C:\Users\bianc\Desktop\Advent of Code\MemRealloc\MemReallocHash\MemReallocHash\obj\Debug\MemReallocHashB.csprojResolveAssemblyReference.cache
+C:\Users\bianc\Desktop\Advent of Code\MemRealloc\MemReallocHash\MemReallocHash\obj\Debug\MemReallocHashB.csproj.CoreCompileInputs.cache
+C:\Users\bianc\Desktop\Advent of Code\MemRealloc\MemReallocHash\MemReallocHash\obj\Debug\MemReallocHash.exe
+C:\Users\bianc\Desktop\Advent of Code\MemRealloc\MemReallocHash\MemReallocHash\obj\Debug\MemReallocHash.pdb
+C:\Users\bianc\Desktop\AdventofCode\MemReallocHash\MemReallocHash\bin\Debug\MemReallocHash.exe.config
+C:\Users\bianc\Desktop\AdventofCode\MemReallocHash\MemReallocHash\bin\Debug\MemReallocHash.exe
+C:\Users\bianc\Desktop\AdventofCode\MemReallocHash\MemReallocHash\bin\Debug\MemReallocHash.pdb
+C:\Users\bianc\Desktop\AdventofCode\MemReallocHash\MemReallocHash\obj\Debug\MemReallocHashB.csprojResolveAssemblyReference.cache
+C:\Users\bianc\Desktop\AdventofCode\MemReallocHash\MemReallocHash\obj\Debug\MemReallocHashB.csproj.CoreCompileInputs.cache
+C:\Users\bianc\Desktop\AdventofCode\MemReallocHash\MemReallocHash\obj\Debug\MemReallocHash.exe
+C:\Users\bianc\Desktop\AdventofCode\MemReallocHash\MemReallocHash\obj\Debug\MemReallocHash.pdb

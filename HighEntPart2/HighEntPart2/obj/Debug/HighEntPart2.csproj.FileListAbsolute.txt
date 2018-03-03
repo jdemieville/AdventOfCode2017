@@ -1,0 +1,7 @@
+C:\Users\bianc\Desktop\AdventofCode\HighEntPart2\HighEntPart2\HighEntPart2\bin\Debug\HighEntPart2.exe.config
+C:\Users\bianc\Desktop\AdventofCode\HighEntPart2\HighEntPart2\HighEntPart2\bin\Debug\HighEntPart2.exe
+C:\Users\bianc\Desktop\AdventofCode\HighEntPart2\HighEntPart2\HighEntPart2\bin\Debug\HighEntPart2.pdb
+C:\Users\bianc\Desktop\AdventofCode\HighEntPart2\HighEntPart2\HighEntPart2\obj\Debug\HighEntPart2.csprojResolveAssemblyReference.cache
+C:\Users\bianc\Desktop\AdventofCode\HighEntPart2\HighEntPart2\HighEntPart2\obj\Debug\HighEntPart2.csproj.CoreCompileInputs.cache
+C:\Users\bianc\Desktop\AdventofCode\HighEntPart2\HighEntPart2\HighEntPart2\obj\Debug\HighEntPart2.exe
+C:\Users\bianc\Desktop\AdventofCode\HighEntPart2\HighEntPart2\HighEntPart2\obj\Debug\HighEntPart2.pdb
